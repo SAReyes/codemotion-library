@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/SAReyes/codemotion-library.svg?branch=master)](https://travis-ci.org/SAReyes/codemotion-library)
+[![codecov](https://codecov.io/gh/SAReyes/codemotion-library/branch/master/graph/badge.svg)](https://codecov.io/gh/SAReyes/codemotion-library)
+
 # Codemotion Workshop
 
 ## Requirements
